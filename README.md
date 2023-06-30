@@ -1,3 +1,6 @@
+## COMPANY
+#### APST (2020.11 ~ )
+
 ## 정독 완료 강의 및 영상
 #### Node_Editor
 url : https://www.youtube.com/watch?v=xbTLhMJARrk&list=PLZSNHzwDCOggHLThIbCxUhWTgrKVemZkz
