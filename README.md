@@ -14,6 +14,8 @@ url : https://www.youtube.com/watch?v=05uFo_-SGXU&list=PLZKTXPmaJk8J_fHAzPLH8CJ_
 ## 개발 블로그
 url : https://dlrjsgml159.tistory.com/
 
+## 예스링!
+
 
 ## MY SKILLS
 <img src="https://img.shields.io/badge/Python-8A2BE2"/><img src="https://img.shields.io/badge/Java-8A2BE2"/><img src="https://img.shields.io/badge/Spring-8181F7"><img src="https://img.shields.io/badge/dJango-82FA58"><img src="https://img.shields.io/badge/HTML-F4FA58"><img src="https://img.shields.io/badge/PyQt5-5858FA"><img src="https://img.shields.io/badge/Flask-8A2BE2"><img src="https://img.shields.io/badge/CSS-F6CEF5">
